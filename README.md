@@ -12,9 +12,9 @@ fastlane add_plugin update_build_version
 
 ## About update_build_version
 
-Append git hash value to build version
+更新本地的版本号，使测试版本更加容易找到基于哪个commit发布的 
 
-**Note to author:** Add a more detailed description about this plugin here. If your plugin contains multiple actions, make sure to mention them here.
+格式：[日期]g[最后一次commit的hash值]， 例子：180815g008fa5
 
 ## Example
 
