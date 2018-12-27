@@ -10,6 +10,10 @@ This project is a [_fastlane_](https://github.com/fastlane/fastlane) plugin. To 
 fastlane add_plugin update_build_version
 ```
 
+## Platform 
+
+**iOS**
+
 ## About update_build_version
 
 更新本地的版本号，使测试版本更加容易找到基于哪个commit发布的 
